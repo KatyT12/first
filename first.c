@@ -9,7 +9,7 @@ int main(int argc, char* argv[])
 	printf("Input your name: ");
 	scanf("%s",name);
 
-	printf("Hello %s! hope you like my epic repository\n")
+	printf("Hello %s! hope you like my epic repository\n",name);
 	
 
 	return 0;
