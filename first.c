@@ -8,7 +8,8 @@ int main(int argc, char* argv[])
 
 	printf("Input your name: ");
 	scanf("%s",name);
-
+        
+	//say hello
 	printf("Hello %s! hope you like my epic repository\n",name);
 	
 
